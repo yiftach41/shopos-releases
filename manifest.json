@@ -1,0 +1,12 @@
+{
+  "shopos-theme": {
+    "version": "2.4.4",
+    "package": "https://github.com/yiftach41/shopos-releases/releases/download/theme-2.4.4/shopos-theme-2.4.4.zip",
+    "released": "2026-08-24",
+    "requires": "6.0",
+    "tested": "6.8",
+    "requires_php": "8.0",
+    "changelog_url": "https://github.com/yiftach41/shopos-releases/releases/tag/theme-2.4.4",
+    "sha256": "3d5ce4acb29f66acfa6b9b5cbc474dd9fa39090d875226f969cf98cfc6b04437"
+  }
+}
