@@ -1,13 +1,13 @@
 {
   "shopos-theme": {
-    "version": "2.4.6",
-    "package": "https://github.com/yiftach41/shopos-releases/releases/download/theme-2.4.6/shopos-theme-2.4.6.zip",
+    "version": "2.4.7",
+    "package": "https://github.com/yiftach41/shopos-releases/releases/download/theme-2.4.7/shopos-theme-2.4.7.zip",
     "released": "2026-08-25",
     "requires": "6.0",
     "tested": "6.8",
     "requires_php": "8.0",
-    "changelog_url": "https://github.com/yiftach41/shopos-releases/releases/tag/theme-2.4.6",
-    "sha256": "facf313a188b3313e2d6014645a43d338d07548bcbfc0989972997deda7db4c0"
+    "changelog_url": "https://github.com/yiftach41/shopos-releases/releases/tag/theme-2.4.7",
+    "sha256": "52874a6269188e589647e1f04df1910fa48074c5c2faaf9593d573994d0361de"
   },
   "shopos-core": {
     "version": "3.14.0",
