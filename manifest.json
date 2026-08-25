@@ -10,13 +10,13 @@
     "sha256": "adaf835b5cb8d66f03dcf86e294120fcf5aa5151939b8ee84f1c0b83ec85e7bf"
   },
   "shopos-core": {
-    "version": "3.12.1",
-    "package": "https://github.com/yiftach41/shopos-releases/releases/download/core-3.12.1/shopos-core-3.12.1.zip",
-    "released": "2026-08-24",
+    "version": "3.13.0",
+    "package": "https://github.com/yiftach41/shopos-releases/releases/download/core-3.13.0/shopos-core-3.13.0.zip",
+    "released": "2026-08-25",
     "requires": "6.0",
     "tested": "6.8",
     "requires_php": "8.0",
-    "changelog_url": "https://github.com/yiftach41/shopos-releases/releases/tag/core-3.12.1",
-    "sha256": "1d3322eb96ad7c53210c60d2e00e321bcab546d05195c5c5f93ea5773703a09d"
+    "changelog_url": "https://github.com/yiftach41/shopos-releases/releases/tag/core-3.13.0",
+    "sha256": "eecf0521b879f8ae215b82b7351990f425ee312c42085a5034229f251c190602"
   }
 }
